@@ -1,1 +1,1 @@
-# STATA_codes_for_data_analysis_and_econometrics
+# STATA codes for data analysis and econometrics
